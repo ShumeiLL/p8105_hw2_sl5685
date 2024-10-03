@@ -191,19 +191,41 @@ final_dataset <- final_dataset %>%
 write_csv(final_dataset, "data/final_bake_dataset.csv")
 ```
 
-First, I imported the data using `read_csv` and renamed each column to something easier to work with. I renamed `baker_name` to `baker`, removed the first two rows for the results dataset, and removed rows with all `NA` values in the results dataset. I merged bakers and bakes datasets based on `baker` and `series`, and then merged the combined dataset with the results dataset on `series`, `episode`, and `baker`. Finally, I reordered the columns and exported the CSV file.
+First, I imported the data using `read_csv` and renamed each column to something easier to work with. I renamed `baker_name` to `baker`, removed the first two rows for the results dataset, and removed rows with all `NA` values in the results dataset. I merged bakers and bakes datasets based on `baker` and `series`, and then merged the combined dataset with the results dataset on `series`, `episode`, and `baker`. Finally, I reordered the columns and exported the CSV file. The final dataset has 548 rows and 10 variables, and it includes information about each baker, their bakes, technical scores, and results. This provides a comprehensive view of each episode, baker performance, and their progression in the competition.
+
+```{r}
+star_bakers_table <- final_dataset %>%
+  filter(series >= 5 & series <= 10, result %in% c("Star Baker", "WINNER")) |>
+  select(series, episode, baker, result) |>
+  arrange(series, episode)
+
+star_bakers_table
+```
+
+The table shows that there is no predictable overall winner, but the winner of each season is known.
 
 Part two
 
 ```{r}
-star_bakers = final_dataset %>%
-  filter(series >= 5 & series <= 10, result == "Star Baker") |>
-  select(series, episode, baker)
+viewers = read_csv("data/viewers.csv") %>%
+  janitor::clean_names()
 
-print(star_bakers)
+head(viewers, 10)
 ```
 
+average viewership in Season 1
 
+```{r}
+avg_viewers_season1 = mean(viewers$series_1, na.rm = TRUE)
 
+avg_viewers_season1
+```
 
+average viewership in Season 5
+
+```{r}
+avg_viewers_season5 = mean(viewers$series_5, na.rm = TRUE)
+
+avg_viewers_season5
+```
 
