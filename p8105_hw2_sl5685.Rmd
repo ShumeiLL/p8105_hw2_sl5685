@@ -1,0 +1,92 @@
+---
+title: "p8105_hw2_sl5685"
+author: "Shumei Liu"
+date: "2024-10-02"
+output: github_document
+---
+
+```{r}
+library(tidyverse)
+library(readxl)
+```
+
+### Problem 1
+
+```{r}
+trans_ent = 
+  read_csv("data/NYC_Transit_Subway_Entrance_And_Exit_Data.csv",
+    col_types = cols(Route8 = "c", Route9 = "c", Route10 = "c", Route11 = "c")) |> 
+  janitor::clean_names() |> 
+  select(
+    line, station_name, station_latitude, station_longitude, 
+    starts_with("route"), entry, vending, entrance_type, ada) |> 
+  mutate(entry = ifelse(entry == "YES", TRUE, FALSE))
+
+trans_ent
+```
+
+This dataset contains 19 variables and 1,868 rows. The variables are line, station_name, station_latitude, station_longitude, route1, route2, route3, route4, route5, route6, route 7, route8, route9, route10, route11, entry, vending, entrance_type and ada. 
+
+For the data cleaning, first read csv file and clean the names of each columns. Then, select all the variables that we need and use `mutate` convert data from character to a logical variable. The resulting dataset is 1,868 x 19. These data are not tidy.
+
+###### Distinct station
+
+```{r}
+trans_ent |> 
+  select(station_name, line) |> 
+  distinct()
+```
+
+There are 465 distinct stations.
+
+###### ADA compliant
+
+```{r}
+trans_ent |> 
+  filter(ada == TRUE) |> 
+  select(station_name, line) |> 
+  distinct()
+```
+
+84 stations are ADA compliant.
+
+###### Proportion without vending
+
+```{r}
+trans_ent |> 
+  filter(vending == "NO") |> 
+  pull(entry) |> 
+  mean()
+```
+
+###### Serve the A train
+
+```{r}
+trans_ent |> 
+  pivot_longer(
+    route1:route11,
+    names_to = "route_num",
+    values_to = "route") |> 
+  filter(route == "A") |> 
+  select(station_name, line) |> 
+  distinct()
+```
+
+###### Serve the A train and ADA compliant
+
+```{r}
+trans_ent |> 
+  pivot_longer(
+    route1:route11,
+    names_to = "route_num",
+    values_to = "route") |> 
+  filter(route == "A", ada == TRUE) |> 
+  select(station_name, line) |> 
+  distinct()
+```
+
+
+
+
+
+
