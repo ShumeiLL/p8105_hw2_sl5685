@@ -1,0 +1,579 @@
+series,episode,baker,baker_age,baker_occupation,hometown,signature_bake,show_stopper,technical,result
+1,1,Annetha,NA,NA,NA,Light Jamaican Black Cakewith Strawberries and Cream,"Red, White & Blue Chocolate Cake with Cigarellos, Fresh Fruit, and Cream",2,IN
+1,1,David,NA,NA,NA,Chocolate Orange Cake,"Black Forest Floor Gateauxwith Moulded Chocolate Leaves, Fallen Fruitand Chocolate Mushrooms Moulded from eggs",3,IN
+1,1,Edd,NA,NA,NA,Caramel Cinnamon and Banana Cake,N/A,1,IN
+1,1,Jasminder,NA,NA,NA,Fresh Mango and Passion Fruit Hummingbird Cake,N/A,NA,IN
+1,1,Jonathan,NA,NA,NA,Carrot Cake with Lime and Cream Cheese Icing,Three Tiered White and Dark Chocolate with Almond and Cherry,9,IN
+1,1,Lea,NA,NA,NA,Cranberry and Pistachio Cakewith Orange Flower Water Icing,Raspberries and Cream filled Chocolatewith Chocolate-dipped Fresh Fruit,10,OUT
+1,1,Louise,NA,NA,NA,Carrot and Orange Cake,"Never Fail Chocolate Sponge Cake,with Fresh Fruit, White & Chocolate Cigarello Border",NA,IN
+1,1,Mark,NA,NA,NA,Sticky Marmalade Tea Loaf,Heart-shaped Chocolate and Beetroot Cake with Store-Bought silver chocolate hearts and chocolate red and white roses.,NA,OUT
+1,1,Miranda,NA,NA,NA,"Triple Layered Brownie Meringue Cake
+with Raspberry Cream",Three Tiered Chocolate Fudge Cake  with Handmade Chocolate Button Decorations,8,IN
+1,1,Ruth,NA,NA,NA,Three Tiered Lemon Drizzle Cakewith Fresh Cream and freshly made Lemon Curd,Classic Chocolate Sponge wrapped in a Chocolate Collartopped with Handmade White and Dark Chocolate Truffles,NA,IN
+1,2,Annetha,NA,NA,NA,Rose Petal Shortbread,Pink Swirl Macarons / Eclairs,7,OUT
+1,2,David,NA,NA,NA,Cheddar Cheese and Fresh Rosemary Biscuits,Choux Pastry Swans  Chocolate Profiteroles,8,IN
+1,2,Edd,NA,NA,NA,Oatmeal Raisin Cookie,Pink Macarons,6,IN
+1,2,Jasminder,NA,NA,NA,Millionaires' Shortbread,Meringues with Chocolate and Space DustCoffee flavoured Eclairs,2,IN
+1,2,Jonathan,NA,NA,NA,Honey and Candied Ginger Cookies,Meringues with Whiskey Cream,1,IN
+1,2,Louise,NA,NA,NA,Stained Glass Window Shortbread,"Strawberry, Mint, and Cream Meringues  Chocolate Eclairs / Orange, Yellow and Pink Macarons",4,OUT
+1,2,Miranda,NA,NA,NA,Fresh Vanilla Biscuits with Royal Icing,Pistachio Macarons,3,IN
+1,2,Ruth,NA,NA,NA,Peanut Shortbread withSalted Peanut Caramel,Almond Macaron with Violet ButtercreamRaspberries and Cream Eclairs,5,IN
+1,3,David,NA,NA,NA,Chilli Bread,"Walnut and Seed Roll
+Red Berry and Almond Bun",4,IN
+1,3,Edd,NA,NA,NA,Olive Bread,Tomato and Mozzarella,1,IN
+1,3,Jasminder,NA,NA,NA,Focaccia,"Mango and Sultana Buns
+Pan au Chocolat with Mars Bars
+Tutti Frutti Wheel with Jelly Tots",5,IN
+1,3,Jonathan,NA,NA,NA,"Anchovy, Sweet Paprika and Oregano Bread","Sticky Lemon Honey Bun
+Olive and Anchovy Roll
+Sundried Tomatoes and Fresh Herbs Roll
+Stilton, Walnut and Apple Roll
+Cinnamon and Cardamom Chelsea Bun",6,OUT
+1,3,Miranda,NA,NA,NA,Walnut and Apricot Bread,"Lemon Iced Buns
+Chocolate and Orange Buns",3,IN
+1,3,Ruth,NA,NA,NA,Maple and Pecan Bread,"Chocolate and Orange Panettone
+Cranberry Bagels",2,IN
+1,4,David,NA,NA,NA,Pear and Walnut Pudding,"Apple and Blackberry Crumble, Rhubarb and Orange Betty, Suet Pear",5,OUT
+1,4,Edd,NA,NA,NA,Apple and Plum Pudding,"Apple and Cinnamon Crumble, Nutella Banana Brioche Bread Pudding, Rhubarb and Strawberry Suet Layer",3,IN
+1,4,Jasminder,NA,NA,NA,Sticky Toffee Pudding with Tropical Fruit & Toffee Sauce,"Bread & Butter Pudding, Treacle Suet Pudding with Fresh Fruit, Apple and Pineapple Crumble",2,IN
+1,4,Miranda,NA,NA,NA,Sticky Toffee Pudding,"Queen of Puddings, Chocolate Pear Roly Poly, Strawberry and Rhubarb Crumble",1,IN
+1,4,Ruth,NA,NA,NA,Peach and Blueberry Boy Bait,"Apple & Ginger Crumble, Rhubarb Suet Crust, Cherry Queen of Puddings",4,IN
+1,5,Edd,NA,NA,NA,"Chicken, Ham, Leek and Tarragon Pie","Almond Sweet Pastry with Ginger and Chocolate  Raspberry Tart / Yorkshire Curd Tart  Chickpea and Salami, Red and Yellow Pepper, Asparagus Gruyere Quiche Canapés",2,IN
+1,5,Jasminder,NA,NA,NA,Chicken and Mushroom Pie,"Jaggery, Carrot, and Spiced Condensed Milk Tart  Fruit and Custard Tart  Thai Chili Red Onion, Duck in Plum Sauce, Salmon and Prawn Canapés",4,OUT
+1,5,Miranda,NA,NA,NA,"Summery Salmon, Cod and Prawn Fish Pie","Chocolate Pastry filled with Orange Cheesecake  Chocolate Pastry filled with Milk Chocolate Ganche  Strawberry Tart with Red Currant Glaze  Cheesy Crab, Broad Bean and Tomato, Pancetta Risotto Canapés",1,IN
+1,5,Ruth,NA,NA,NA,Minced Beef Pie,"Raspberry and Dark Chocolate Tart  Creme Patisserie and Cherry Tart  Citrus Curd Tart with Creme Brulee top  Tomato, Asparagus Twirl Canapés",3,IN
+1,6,Edd,NA,NA,NA,Cinnamon and Banana Cake,NA,NA,WINNER
+1,6,Miranda,NA,NA,NA,Lemon Cupcake,Eliminated after signature,NA,Runner-up
+1,6,Ruth,NA,NA,NA,"Mint, Ginger and Blackberry Cake",NA,NA,Runner-up
+2,1,Ben,NA,NA,NA,Rhubarb and Custard CupcakesAfter Dinner Cupcakes,Vanilla Sponge with White Chocolate and Raspberry Buttercream,2,IN
+2,1,Holly,NA,NA,NA,Cherry Bakewell Inspired CupcakesGinger Cupcakes with Fig Truffle,UNKNOWN,1,STAR BAKER
+2,1,Ian,NA,NA,NA,Apple and Cinnamon Cupcakes,UNKNOWN,10,IN
+2,1,Janet,NA,NA,NA,Raspberry and Cream Cupcakes,Chocolate Marble Cakewith Dark and White Chocolate Truffles,8,IN
+2,1,Jason,NA,NA,NA,Lemon Meringue CupcakesApple and Cinnamon Cupcakes,UNKNOWN,6,IN
+2,1,"""Jo""",NA,NA,NA,Chocolate Orange CupcakesOrange and Cardamom Cupcakes,Chocolate and Strawberry Cake,NA,NA
+2,1,Keith,NA,NA,NA,Earl Grey Cupcakes,Chocolate and Sour Cream Cake,12,OUT
+2,1,Mary-Anne,NA,NA,NA,Banoffee Cupcakes,Chocolate and Raspberry Opera cake,4,IN
+2,1,Robert,NA,NA,NA,Blackberry and Vanilla Cupcakeswith Liquorice Frosting,Genoise Layered Mousse Cakewith Chocolate Ganache,3,IN
+2,1,Simon,NA,NA,NA,Guinness and Chocolate Cupcakes,Two-Tiered Chocolate Courgette Cake,9,IN
+2,1,Urvashi,NA,NA,NA,Cherry Blossom CupcakesJapanese Lime Cupcakes,UNKNOWN,7,IN
+2,1,Yasmin,NA,NA,NA,Cardamom and Pomegranate Cupcakes,UNKNOWN,5,IN
+2,2,Ben,NA,NA,NA,"Chorizo, Pepper and Gruyere Quiche",Lemon Meringue Tarts,1,IN
+2,2,Holly,NA,NA,NA,Pesto Quiche,Milk Chocolate and Pistachio TartsTrifle Tarts,4,IN
+2,2,Ian,NA,NA,NA,"Stilton, Spinach and New Potato Quichewith Paprika and Walnut Pastry",UNKNOWN,2,IN
+2,2,Janet,NA,NA,NA,Quiche Printanière,Red Fruit TartsChocolate and Cherry Tarts,8,IN
+2,2,Jason,NA,NA,NA,Salmon and Pak Choi Quiche,Mint Chocolate Tarts Blueberry Bakewell Tarts,3,STAR BAKER
+2,2,"""Jo""",NA,NA,NA,"Caramelised Onion, Gruyere and Thyme Quiche",Raspberry and Mascarpone Tarts with Lemon and Almond PastryHoney and Almond Tarts with Sweetcrust,NA,NA
+2,2,Mary-Anne,NA,NA,NA,"Roasted Cauliflower, Cheese andCaramelised Onion Quiche",Butterscotch Brulée Tarts in Pecan PastryApple Rose Tarts,9,IN
+2,2,Robert,NA,NA,NA,Smoked Bacon and Kale Quiche,"Chocolate, Fennel and Ginger TartAlmond, Creme Patissiere and Poached Pear Tart",5,IN
+2,2,Simon,NA,NA,NA,Smoked Haddock and Watercress Quiche,"Passion Fruit and Ricotta TartsSalted Chocolate, Stem Ginger and Mascarpone Cream Tarts",11,OUT
+2,2,Urvashi,NA,NA,NA,"Crab, Coriander and Coconut Quiche",Strawberry and Basil TartsElderflower and Honeycomb Tarts,7,IN
+2,2,Yasmin,NA,NA,NA,Smoked Haddock and Watercress Quiche,Chocolate and Orange with Cinnamon-Orange Pastry TartsBlueberry and Hazelnut with Hazelnut Pastry Tarts,6,IN
+2,3,Ben,NA,NA,NA,"Walnut, Raisin and Rosemary Loaf",UNKNOWN,3,IN
+2,3,Holly,NA,NA,NA,Picnic Loaf,Stilton and Walnut Rolls,6,IN
+2,3,Ian,NA,NA,NA,"Courgette, Caerphilly Cheese and Thyme Loaf",Walnut and Raisin RollsCracked Wheat Logs,10,OUT
+2,3,Janet,NA,NA,NA,Zupfe Loaf with Gruyère Cheese,Apple and Walnut Granary Rolls Red Onion Cottage Rolls,8,IN
+2,3,Jason,NA,NA,NA,Cheese and Onion Tear and Share Loaf,UNKNOWN,7,IN
+2,3,"""Jo""",NA,NA,NA,"Stromboli flavored with Mozzarella, Ham, and Picante Pepper",Unknown,NA,NA
+2,3,Mary-Anne,NA,NA,NA,Ploughman's Loaf,Herb and Walnut BreadsChocolate and Chilli Buns,5,IN
+2,3,Robert,NA,NA,NA,Rye and Coriander Seed Loaf,Blueberry Brioche RollsLemon and Poppy Seed Rolls,4,IN
+2,3,Urvashi,NA,NA,NA,Salt and Peppercorn Loaf,Chilli and Halloumi RollsLemon and Coriander Mini Loaves,9,OUT
+2,3,Yasmin,NA,NA,NA,Egyptian Dukkah Loaf with Mixed Spices,"Pesto Bread
+Sweet Coconut Rolls",2,STAR BAKER
+2,4,Ben,NA,NA,NA,Stem Ginger Nuts,Chocolate and Almond MacaronsPine Nut MacaronsPistachio Macarons,5,OUT
+2,4,Holly,NA,NA,NA,Strawberry and Custard Melts,"'Chocolate bars of my youth'
+(Caramel Macarons, Mint Chocolate Macarons and Chocolate Orange Macarons)",3,STAR BAKER
+2,4,Janet,NA,NA,NA,Christmas Marzipan Biscuits,"Raspberry Macarons
+Blackcurrant Macarons
+Almond Macarons",4,IN
+2,4,Jason,NA,NA,NA,Lebkuchen,"Mocktail Macarons
+(Mojito, Cranberry Cooler, and Pina Colada)",1,STAR BAKER
+2,4,"""Jo""",NA,NA,NA,Lavender Biscuits,Blueberry MacaronsCoconut MacaronsStrawberry Macarons,NA,NA
+2,4,Mary-Anne,NA,NA,NA,Melting Moments,Blackcurrant and Mint MacaronsGooseberry and Elderflower MacaronsHazelnut Macarons,2,IN
+2,4,Robert,NA,NA,NA,Chocolate and Ginger Oat Biscuits,Strawberry and Lime MacaronsLemon MacaronsChocolate and Cardamom Macarons,7,IN
+2,4,Yasmin,NA,NA,NA,Chocolate Chip and Pistachio Biscotti,Chocolate and Lime MacaronsCoffee and Walnut MacaronsPineapple and Coconut Macarons,6,IN
+2,5,Holly,NA,NA,NA,"Stilton, Potato and Caramelised Onion Pie",Lime Meringue Pie,4,IN
+2,5,Janet,NA,NA,NA,Chicken and Chestnut Pie,Rhubarb Meringue Pie,1,STAR BAKER
+2,5,Jason,NA,NA,NA,Brown Down Chicken Pie,Plum Meringue Pie,7,OUT
+2,5,"""Jo""",NA,NA,NA,Salmon and Asparagus Pie,Apple and Raspberry Meringue Pie,NA,NA
+2,5,Mary-Anne,NA,NA,NA,Chicken and Bacon Pie,Midnight Meringue,2,IN
+2,5,Robert,NA,NA,NA,Chicken and Mushroom Pie,Rhubarb and Custard Meringue Pie,3,OUT
+2,5,Yasmin,NA,NA,NA,Family Fish Pie,Peach and Raspberry Meringue Pie,5,IN
+2,6,Holly,NA,NA,NA,Father Christmas' Baked Cheesecake,Hansel and Gretel's Croquembouche,3,IN
+2,6,Janet,NA,NA,NA,Rhubarb and Ginger Baked Cheesecake,Orange and Nougatine Croquembouche,5,IN
+2,6,"""Jo""",NA,NA,NA,Rum and Raisin Baked Cheesecake,Limoncello and White Chocolate Croquembouche,NA,NA
+2,6,Mary-Anne,NA,NA,NA,Tutti Fruitti Curd Baked Cheesecake,Orange and Praline Croquembouche with Cardamom Caramel,4,IN
+2,6,Yasmin,NA,NA,NA,Baked Amaretto Cheesecake,Rose Croquembouche,2,OUT
+2,7,Holly,NA,NA,NA,"White Chocolate, Hazelnut and Raspberry Genoise Mousse Cake","Apricot, Macadamia and White Chocolate PinwheelsAlmond CroissantsApple, Raisin and Cinnamon Plaits",1,IN
+2,7,Janet,NA,NA,NA,Chocolate Amaretto Mousse Cake,Pain Aux RaisinPlain CroissantPain Au Chocolat,4,OUT
+2,7,"""Jo""",NA,NA,NA,Raspberry & Strawberry Mousse Cake,Pain Aux RaisinChocolate TwistsBanana and Raisin Pastries,NA,NA
+2,7,Mary-Anne,NA,NA,NA,Chocolate and Orange Mousse Cake,Raspberry Rose DanishesPraline SpiralsAlsatian Plaited Danishes,2,IN
+2,8,Holly,NA,NA,NA,Banoffee Inspired Mille Feuille,Strawberry and Cream Meringue NestGooseberry and Elderflower 'Bakewell' TartsNeapolitan Ice-Cream Sandwich,2,Runner-up
+2,8,"""Jo""",NA,NA,NA,Raspberry and Blueberry Mille Feuille,"Mini Victoria SandwichesRaspberry, White Chocolate and Pistachio Mini MeringuesMini Banoffee Pie with Banana Mousse",NA,NA
+2,8,Mary-Anne,NA,NA,NA,Lemon and Ginger Mille Feuille,Fruit Tarts with Elderflower CustardStrawberry and Rhubarb CheesecakesBlack Fruit Meringue with Everlasting Syllabub,3,Runner-up
+3,1,Brendan,NA,NA,NA,"Plum, Sour Cherry & Walnut",UNKNOWN,10,IN
+3,1,Cathryn,NA,NA,NA,"Apple, Hazelnut and Calvados",Hidden Cupcake Cake,5,IN
+3,1,Danny,NA,NA,NA,"Plum, Ginger & Orange",UNKNOWN,7,IN
+3,1,James,NA,NA,NA,"Parsnip, Pear, and Pecan","""Simmer Dim"" Sunset Cake",2,IN
+3,1,John,NA,NA,NA,"Toffee Apple, Orange & Cranberry",Hidden Pink Hearts Cake,11,IN
+3,1,Manisha,NA,NA,NA,"Vanilla, Peach and Raspberry",White Chocolate Cake with a Red Velvet and White Chocolate Mousse Heart,6,IN
+3,1,Natasha,NA,NA,NA,Pineapple & Passion Fruit,Mother's Day Layered Rose Cake,12,OUT
+3,1,Peter,NA,NA,NA,"Pear, Muscat & Chocolate",Jubilee Cake,3,IN
+3,1,Ryan,NA,NA,NA,Kumquat and Orange Polenta,Hidden Flowerbed Mousse Cake,8,IN
+3,1,Sarah-Jane,NA,NA,NA,"Pear, Chocolate and Hazelnut",Hidden Crown Cake,1,IN
+3,1,Stuart,NA,NA,NA,Tomato and Ginger,Lemon and Pistachio Union Flag Cake,9,IN
+3,1,Victoria,NA,NA,NA,Pear and Pecan,Blackbird Pie Cake,4,STAR BAKER
+3,2,Brendan,NA,NA,NA,Middle Eastern Taboon BreadIndian Rotis,"Chocolate and Vanilla Bagels
+Cumin and Gruyere Bagels",4,IN
+3,2,Cathryn,NA,NA,NA,"Spiced Mango NaanLime, Coriander and Chilli Tortillas","Cranberry and Orange Bagels
+Chipotle, Chili, and Smoked Cheddar Bagels",8,IN
+3,2,Danny,NA,NA,NA,Lime Coriander and Coconut TortillasZaatar Naan with Dukkah,UNKNOWN,3,IN
+3,2,James,NA,NA,NA,"Tomato, Garlic, and Parmesan FlatbreadsTattie Scones","Orange, Mint and Chocolate Bagels
+'Millers' Sourdough Bagels",2,IN
+3,2,John,NA,NA,NA,"Coriander and Chilli RotisGarlic, Pomegranate and Potato Pitas","Fig, Walnut and Gruyere Bagels
+Blueberry and White Chocolate Bagels",1,STAR BAKER
+3,2,Manisha,NA,NA,NA,Indian FlatbreadsItalian Flatbreads,UNKNOWN,6,IN
+3,2,Peter,NA,NA,NA,Fennel and Nigella Seed NaanBannock Bread,"Rosemary and Sea Salt Bagels
+Apple and Cinnamon Bagels",11,OUT
+3,2,Ryan,NA,NA,NA,Shanghai Spring Onion FlatbreadsGarlic and Coriander Naan,"Cinnamon and Date Bagels
+Tarragon and Rosemary Bagels",5,IN
+3,2,Sarah-Jane,NA,NA,NA,Toasted Coconut and Lime RotisOatcakes,UNKNOWN,10,IN
+3,2,Stuart,NA,NA,NA,Bombay BreadChorizo and Spring Onion Naan,"Cinnamon and Cranberry Bagels
+Tomato and Thyme Bagels",9,IN
+3,2,Victoria,NA,NA,NA,Coriander and Lemon NaanGarlic and Parsnip Chapatis,"Saffron and Golden Raisin Bagels
+Porcini Bagels",7,IN
+3,3,Brendan,NA,NA,NA,Apple and Ginger Tarte Tatin,"Blackberry, Nectarine and Dragon Fruit Tart",9,IN
+3,3,Cathryn,NA,NA,NA,"Plum, Cherry and Five Spice Tarte Tatin","Raspberry, Pistachio and Lemon Tart",3,IN
+3,3,Danny,NA,NA,NA,Savoury Pear and Roquefort Tarte Tatin,"Pineapple, Coconut and Frangipane Tart",2,IN
+3,3,James,NA,NA,NA,Apple and Lavender Tarte Tatin,"Rose, Lychee and Raspberry Fruit Tart",1,STAR BAKER
+3,3,John,NA,NA,NA,Apple and Vanilla Tarte Tatin with Walnut Praline,"Berries, Grapes, Pomegranate, and Dragon Fruit Tart",6,IN
+3,3,Manisha,NA,NA,NA,"Cinnamon, Apple and Pear Tarte Tatin",Rum and Tropical Fruit Tart,10,IN
+3,3,Ryan,NA,NA,NA,Spiced Pear Tarte Tatin,UNKNOWN,5,IN
+3,3,Sarah-Jane,NA,NA,NA,Caramelised Banana Tarte Tatin,French Apple Tart with Blackberry and Cassis Jam,8,IN
+3,3,Stuart,NA,NA,NA,Pear and Almond Tarte Tatin,Raspberry Triple Chocolate Layered Tart,7,IN
+3,3,Victoria,NA,NA,NA,"Fig, Walnut and Pink Peppercorn Tarte Tatin",Tropical Fruit Tart with Black Pepper Crust,4,OUT
+3,4,Brendan,NA,NA,NA,Clementine and Chestnut Torte,"Pear, Chocolate and Hazelnut Dacquoise",1,STAR BAKER
+3,4,Cathryn,NA,NA,NA,"White Chocolate, Macadamia and Coffee Torte","Gooseberry, Almond and Honey Meringue",3,IN
+3,4,Danny,NA,NA,NA,"Blackberry, White Chocolate, Lemon and Elderflower Torte","'Monte Bianco' Chestnut, Chocolate and Coffee Dacquoise",2,IN
+3,4,James,NA,NA,NA,"Hazelnut, Chocolate and Passionfruit Torte","Fig, Chestnut, Cherry and Chocolate Layered Meringue",5,IN
+3,4,John,NA,NA,NA,'Torte Noir' Black Forest Torte with Boozy Cream,Elderflower and Bramble Berry Pavlova,6,IN
+3,4,Manisha,NA,NA,NA,"Almond, Chocolate and Cherry Torte",Tiramisu Layered Meringue Dessert,9,IN
+3,4,Ryan,NA,NA,NA,Green Tea Opera Torte,"Strawberry, Rose and Pistachio Meringue",7,IN
+3,4,Sarah-Jane,NA,NA,NA,Chocolate and Almond Truffle Torte,Hazelnut Tiramisu Layered Meringue,4,IN
+3,4,Stuart,NA,NA,NA,Black Forest Torte,Choca Blocka Mocha Meringue,8,OUT
+3,5,Brendan,NA,NA,NA,Salmon Coulibiac in a Scandinavian Pastry,All American Chiffon Pie,3,IN
+3,5,Cathryn,NA,NA,NA,Full English Wellington,Chocolate and Peanut Butter Pumpkin Pie,1,IN
+3,5,Danny,NA,NA,NA,"Chickpea, Spinach & Mushroom Wellington",Trick or Treat Pumpkin Pie,7,IN
+3,5,James,NA,NA,NA,Four Pig Wellington,Sweet Potato Pie,6,IN
+3,5,John,NA,NA,NA,Venison and Haggis Wellington,Star-Spangled Pecan Pie,2,IN
+3,5,Manisha,NA,NA,NA,Lamb Wellington with Rosemary and Mint,Banana Scotch Pie,5,OUT
+3,5,Ryan,NA,NA,NA,Curry Spiced Seabass Wellington,Key Lime Pie,8,STAR BAKER
+3,5,Sarah-Jane,NA,NA,NA,Beef Wellington with Parma Ham and Gorgonzola Cheese,Chocolate and Banana Cream Pie,4,IN
+3,6,Brendan,NA,NA,NA,"Rhubarb, Strawberry and Ginger Puddings
+Sticky Toffee Puddings","Spinach, Cheese and Walnut Strudel",1,STAR BAKER
+3,6,Cathryn,NA,NA,NA,"Chocolate Walnut Whip Puddings
+Elderflower Sponges",Roasted Vegetable Couscous and Sheep Cheese Strudel,3,IN
+3,6,Danny,NA,NA,NA,Banoffee Puddings with Walnut Butterscotch SauceJubilee Chocolate Fondants,"Leek, Potato, Pistachio and Gruyère Strudel",2,IN
+3,6,James,NA,NA,NA,Banana and Clove PuddingsClootie Dumplings,"Strawberry, Rhubarb and Ginger Strudel",7,IN
+3,6,John,NA,NA,NA,Spicy Toffee PuddingsRaspberry and White Chocolate Puddings,Did not complete due to injury,5,IN
+3,6,Ryan,NA,NA,NA,Chocolate FondantsSticky Ginger and Date Puddings,"Apple, Sour Cherry, Raisin and Mixed Nuts Strudel",6,IN
+3,6,Sarah-Jane,NA,NA,NA,Sticky Toffee PuddingsGranny's Saucy Lemon Puddings,Sweet Strudel with Sour Cherries,4,IN
+3,7,Brendan,NA,NA,NA,Chelsea Bunskis,Black Forest Christmas Stollen,4,IN
+3,7,Cathryn,NA,NA,NA,Lady Arundel's Manchet Buns,Bonfire Night Tear 'n' Share Brioche,5,IN
+3,7,Danny,NA,NA,NA,Bakewell Chelsea Buns,European Christmas Wreath,2,STAR BAKER
+3,7,James,NA,NA,NA,Easter Chelsea Buns,Whisky Kugelhopf-Brioche Baba,1,IN
+3,7,John,NA,NA,NA,Cherry and Almond Saffron Buns,Marzipan Stollen,3,IN
+3,7,Ryan,NA,NA,NA,Lardy Cakes,Char Siu Bao,6,OUT
+3,7,Sarah-Jane,NA,NA,NA,"Orange, Nutmeg and Saffron Buns",Sour Cherry and Dark Chocolate Christmas Plait,7,OUT
+3,8,Brendan,NA,NA,NA,Multi-Seed Savoury Crackers,Fantasy Gingerbread Bird House,2,IN
+3,8,Cathryn,NA,NA,NA,Cheese and Pickle Crackers,Gingerbread Buckingham Palace,5,OUT
+3,8,Danny,NA,NA,NA,Spiced Almond Drinks Crackers,Gingerbread Big Ben,4,IN
+3,8,James,NA,NA,NA,"Smoky Cayenne, Cumin and Chilli Crackers",Gingerbread Barn,1,STAR BAKER
+3,8,John,NA,NA,NA,Asian Spice Crackers,Gingerbread Roman Coliseum,3,IN
+3,9,Brendan,NA,NA,NA,Coffee Meringue and Hazelnut CreamsApricot and Pistachio FriandsLime Curd Choux Pastry Cygnets,Gateau St. Honoré,3,IN
+3,9,Danny,NA,NA,NA,Blackberry and Peppermint MacaroonsMiniature Raspberry and Basil FinanciersOrange and White Chocolate Langues de Chat,Rosewater and Lychee St. Honoré,4,OUT
+3,9,James,NA,NA,NA,"Lemon and Rhubarb TartletsChocolate Indulgence Petits FoursChilli, Lime and Raspberry Macaroons","Coffee, Caramel and Hazelnut Paris-Brest",1,STAR BAKER
+3,9,John,NA,NA,NA,Lemon MadeleinesWhite Chocolate and Raspberry TartletsDark Chocolate and Cherry Macaroons,Gateau St. Honoré a la Passion,2,IN
+3,10,Brendan,NA,NA,NA,Potato and Pepper Pithivier,Family Reunion Chiffon Cake,2,Runner-up
+3,10,James,NA,NA,NA,Spanish Pithivier with Chorizo and Red Pepper,United Chiffon Cakes,1,Runner-up
+3,10,John,NA,NA,NA,Italian Sausage and Roasted Vegetable Pithivier,Heaven and Hell Chiffon Cake,2,WINNER
+4,1,Ali,NA,NA,NA,Rose and Pistachio Cake,"Chocolate, Raspberry and Passion Fruit Engagement Cake",11,IN
+4,1,Beca,NA,NA,NA,Grapefruit Sandwich Cake,Chocolate Cherry Indulgence,8,IN
+4,1,Christine,NA,NA,NA,"Strawberry, Vanilla and Rosewater Summer Basket",Chocolate and Orange 'Fripperous' Hat Cake,3,IN
+4,1,Deborah,NA,NA,NA,Pineapple Cake,'Coffee Time',9,IN
+4,1,Frances,NA,NA,NA,Giant Jam Sandwich,Secret Squirrel Cake,7,IN
+4,1,Glenn,NA,NA,NA,Strawberries and Cream Cake,Almond and Espresso Chocolate Cake,4,IN
+4,1,Howard,NA,NA,NA,Passion Fruit and Coconut Cake,Black Forest Revisited,6,IN
+4,1,Kimberley,NA,NA,NA,Blood Orange Cake,"Chocolate, Raspberry & Basil Layer Cake",10,IN
+4,1,Lucy,NA,NA,NA,Timperley Early Cake,Thyme 'Wildwood' Cake,2,IN
+4,1,Mark,NA,NA,NA,Lemon and Poppy Seed Cake,Chocolate Monster,5,IN
+4,1,Robert,NA,NA,NA,Pecan and Apple Cake,Raspberry Chocolate Cake,1,STAR BAKER
+4,1,Ruby,NA,NA,NA,Rhubarb and Custard Sandwich Cake,Chocolate and Ginger Night Sky Cake,12,IN
+4,1,Toby,NA,NA,NA,Spiced and Iced Carrot Cake,Two Tiered Chocolate Cake,13,OUT
+4,2,Ali,NA,NA,NA,Italian Grissini,Sweet and Savoury Yin Yang Bread,9,IN
+4,2,Beca,NA,NA,NA,Fennel and Chilli Breadsticks,Five Strand Christmas Wreath,11,IN
+4,2,Christine,NA,NA,NA,Mediterranean Breadsticks with Oregano,Double Plaited Loaf,4,IN
+4,2,Deborah,NA,NA,NA,Fennel & Chilli Breadsticks,Walnut Fleur Loaf,8,IN
+4,2,Frances,NA,NA,NA,Giant Matchsticks,Sailor's Knot,2,IN
+4,2,Glenn,NA,NA,NA,Rosemary and Parmesan Grissini,Harvest Crown,7,IN
+4,2,Howard,NA,NA,NA,Moroccan Breadsticks,Picasso Sun Bread,10,IN
+4,2,Kimberley,NA,NA,NA,Nigella Seed and Parmesan Breadsticks,Peace Bread,1,IN
+4,2,Lucy,NA,NA,NA,Grissini with Salt,Roast Tomato Bread,12,OUT
+4,2,Mark,NA,NA,NA,Rosemary & Raisin Breadsticks,Sage & Garlic Plait,6,IN
+4,2,Robert,NA,NA,NA,Twisty Rye Bread Sticks,Tribute Loaf,5,IN
+4,2,Ruby,NA,NA,NA,Mexican Breadsticks,White Chocolate and Orange Peacock Bread,3,STAR BAKER
+4,3,Ali,NA,NA,NA,"Coconut, Raspberry and Lemon Meringue Trifle",Vanilla Latte Mini CakesLime & Mint Shortbread Pops,5,IN
+4,3,Beca,NA,NA,NA,Orange and Ginger Trifle,Limoncello and Blueberry BurstsMillionaire Shortbread,10,IN
+4,3,Christine,NA,NA,NA,Caribbean Pina Colada Trifle,Ninety-NinersSachertorte Parcels,4,STAR BAKER
+4,3,Deborah,NA,NA,NA,Tropical Trifle*,Canelé Cherry and Chocolate CakesRose Cookies,9,OUT
+4,3,Frances,NA,NA,NA,Apple and Blackberry Crumble Trifle,'Ballet Bites' Ginger NutcrackersSugar Plum Fairy Cakes,8,IN
+4,3,Glenn,NA,NA,NA,Raspberry and Almond Trifle,Billionaire BouchéesOrange Financiers,1,IN
+4,3,Howard,NA,NA,NA,Caramel and Apple Trifle*,Black Coffee and Cardamom CakesWhite Stilton and Pear Biscuits,7,IN
+4,3,Kimberley,NA,NA,NA,"Peach, Almond and Ginger Trifle",Chocolate Pistachio FinanciersLemon Bergamot Biscuits,6,IN
+4,3,Mark,NA,NA,NA,"Ginger, Mango and Passion Fruit Trifle",Rose and Pistachio MacaroonsChocolate and Raspberry Bites,11,OUT
+4,3,Robert,NA,NA,NA,Rhubarb and Orange Trifle,Almond FriandsTurǫn Macaroons,2,IN
+4,3,Ruby,NA,NA,NA,Desert Island Trifle,Lemon Shortbread and White Chocolate SeashellsBlackberry and Chocolate Layer Cakes,3,IN
+4,4,Ali,NA,NA,NA,Apple and Ginger Pie with a Pecan and Walnut Shortcrust Pastry,"Orange, Cardamom and Date M'Hanncha",8,OUT
+4,4,Beca,NA,NA,NA,Mamgu's Cherry-Apple Tart,Moroccan Vegetable Filo Feast,2,IN
+4,4,Christine,NA,NA,NA,"Granny Rogers' Apple, Plum & Cinnamon Country Pie",Roasted Vegetable Filo Pie with Feta Cheese,7,IN
+4,4,Frances,NA,NA,NA,Peach Pie In the Sky,Cherry Tree Baklava Filo Pie,1,IN
+4,4,Glenn,NA,NA,NA,Apple & Maple Syrup Pie,Spanakopita (Walnut and Feta Cheese),9,IN
+4,4,Howard,NA,NA,NA,Apple Pie with Sage Pastry,Fresh Fig and Feta Filo Flan,5,IN
+4,4,Kimberley,NA,NA,NA,Pecan and Rosemary Caramel Apple Pie,"Chicken, Bacon and Butternut Squash Pie",4,STAR BAKER
+4,4,Robert,NA,NA,NA,Apple and Pear Pie with Thyme,Spanakopita with St George's Mushrooms,3,IN
+4,4,Ruby,NA,NA,NA,Apple and Marzipan Pie,"Rose, Almond and Raspberry Filo Pie",6,IN
+4,5,Beca,NA,NA,NA,"Chocolate, Cherry and Hazelnut Brownies",Tiered Macaron and Sugar Dough Biscuit Centrepiece,5,IN
+4,5,Christine,NA,NA,NA,Mixed Berry and Almond Crumble Traybake,Shortbread Bavarian Clock Tower,1,STAR BAKER
+4,5,Frances,NA,NA,NA,Millionaire Banoffee Bonus,Biscuit Buttons and Beads,3,IN
+4,5,Glenn,NA,NA,NA,Apricot and Pistachio Tiffin,Shortbread and Macaron Helter-Skelter,2,IN
+4,5,Howard,NA,NA,NA,Breakfast Traybake,Japanese Pagoda Tea Tower,8,IN
+4,5,Kimberley,NA,NA,NA,Cherry and Almond Bakewell Florentine Slice,Black and White Viennese Biscuit Stack,7,IN
+4,5,Robert,NA,NA,NA,Blueberry & Orange Traybake,Dalek,4,OUT
+4,5,Ruby,NA,NA,NA,Blackberry and Lemon Bakewell Slice,'Dropped Ice-Cream' Biscuit Centrepiece,6,IN
+4,6,Beca,NA,NA,NA,Bara Brith,Chocolate and Rum-Soaked Prune BriochesCardamom Spiced Lemon Iced Buns,6,IN
+4,6,Christine,NA,NA,NA,Oxford Nutty Fruit Loaf,Schnecken BunsVanilla Custard Skolebrød,4,IN
+4,6,Frances,NA,NA,NA,Chai Tea Loaf,Hot Cross BriochesRhubarb and Custard Kolaches,2,IN
+4,6,Glenn,NA,NA,NA,Devonshire Panettone,Almond and Apricot BriochesSticky Caramel Kanelbullen,5,IN
+4,6,Howard,NA,NA,NA,Date & Hemp Yorkshire Loaf,Peachy BunsGerman Baumschnecken,7,OUT
+4,6,Kimberley,NA,NA,NA,Chai Spiced Ginger and Date Tea Loaf,Double Chocolate and Hazelnut BriochesDanish Kanelsnurrer,3,IN
+4,6,Ruby,NA,NA,NA,Citrus Tea Loaf,Twisted Swedish KanelbullarSaffron St. Lucia Buns,1,STAR BAKER
+4,7,Beca,NA,NA,NA,Spring Lamb and Vegetable Suet Puddingwith Redcurrant Gravy,Nectarine and Frangipane SquaresChocolate and Hazelnut Vol-au-ventsStrawberries and Cream Mille-feuille,1,IN
+4,7,Christine,NA,NA,NA,Spotted Dick 'With a Kick'and Vanilla Custard Ice Cream,Eccles CakesFresh Fruit BasketsLemon Cream Eton Mess Mille-feuille,6,IN
+4,7,Frances,NA,NA,NA,Figgy Roll-y Poly Puddingwith Caramelised Walnut and Honey Ice-Cream,French Framboise Cream HornsSheet Music Mille-feuilleBass Clef Palmiers,5,STAR BAKER
+4,7,Glenn,NA,NA,NA,Prune and Armagnac Puddingwith Boozy Butterscotch Sauce,Caramelised Apple and Marzipan TartletsChocolate Elephant EarsPassion Fruit Mille-feuille,3,OUT
+4,7,Kimberley,NA,NA,NA,Barberry and Apple Spotted Dickwith Maple Syrup and White Chocolate Custard,"Pear, Malt and Butterscotch Mille-feuilleBlackberry and Lemon Verbena Crème Brûle Custard TartsFig, Orange and Thyme Galette",4,IN
+4,7,Ruby,NA,NA,NA,Plum Jam Roly-Polywith Ginger Ice cream,Raspberry and Passion Fruit Mille-feuilleCaramelised Apple LatticePortuguese Custard Tarts,2,IN
+4,8,Beca,NA,NA,NA,"Potato, Spelt and Rosemary Focaccia",Spiced Butternut Squash and Pecan 'Cheese' Cake,4,IN
+4,8,Christine,NA,NA,NA,"Multi-Seeded Loaf with Pumpkin, Sesame and Sunflower Seeds",Sweet Potato Guitar with Passion Fruit Icing and Marshmallow Fondant,5,OUT
+4,8,Frances,NA,NA,NA,'Chelsea Flour Show' Bun Bouquet,"Hidden Carrot Cake (Ground Praline, Beetroot and Walnut)",3,IN
+4,8,Kimberley,NA,NA,NA,Wild Garlic Pesto and Parma Ham Spelt Loaf,Butternut Squash and Spice Cake Toadstool House,2,IN
+4,8,Ruby,NA,NA,NA,Mango and Nigella Seed Spelt Cob,Carrot Cake and Pistachio Garden Plot,1,STAR BAKER
+4,9,Beca,NA,NA,NA,Stilton and Walnut MacaronsBeetroot and Salmon Choux PuffsWelsh Rarebit Tartlets,Banoffee Opera Cake,3,OUT
+4,9,Frances,NA,NA,NA,"Legume Canapés:
+Chantenay CarrotsChoux Pastry TomatoesCauliflower Cheese Scones",Great British Soap Opera Cake,2,IN
+4,9,Kimberley,NA,NA,NA,Pea Purée TartsCrab and Wasabi ProfiterolesSteamed Buns with Barbecue Chicken,Passion Fruit and Lime Opera Cake,1,STAR BAKER
+4,9,Ruby,NA,NA,NA,"Beetroot Jelly on Poppy Seed BiscuitsSpinach, Parmesan and Egg TartletsChoux Buns with Goat's Cheese and Caramelised Onions","Chocolate, Almond Praline and Saffron Opera Cake",4,IN
+4,10,Frances,NA,NA,NA,Rainbow Picnic Pie,Midsummer Night's Dream Wedding Cake,3,WINNER
+4,10,Kimberley,NA,NA,NA,Chicken and Pig Pie,Languages of Love Wedding Cake,1,Runner-up
+4,10,Ruby,NA,NA,NA,Picnic Basket Pie,"Raspberry, Lemon and Passion Fruit Wedding Cake",2,Runner-up
+5,1,Chetna,NA,NA,NA,"Cardamom, Pistachio and Coffee Swiss Roll",Tiered Victoria Sponges with Lemon Curd and Raspberry Cream,3,IN
+5,1,Claire,NA,NA,NA,Chocolatey Orangey Swirly Roll,Mini Chocolate and Cherry Cakes,8,OUT
+5,1,Diana,NA,NA,NA,Mum's Sunday Tea Lemon Curd Swiss Roll,Chocolate Ganache Surprises,5,IN
+5,1,Enwezor,NA,NA,NA,Raspberry and Lemon Swiss Roll,Coffee and Walnut Battenberg Squares,9,IN
+5,1,Iain,NA,NA,NA,Apricot and Basil Swiss Roll with Mascarpone and White Chocolate Cream,"Lemon Drizzle Cakes with Mascarpone Filling, Drizzled Icing, and Candied Lemon",4,IN
+5,1,Jordan,NA,NA,NA,Kawaii Frasier Swiss Roll,Lemon Drizzle Cakes with Blueberry and Lemon Curd,12,IN
+5,1,Kate,NA,NA,NA,Red Velvet and White Chocolate Swiss Roll,Mini Tiered Victoria Sponges,6,IN
+5,1,Luis,NA,NA,NA,Spanish Swiss Roll,Raspberry and Lemon Genoise Slices with Lemon Drizzles,7,IN
+5,1,Martha,NA,NA,NA,Tiramisu Swiss Roll,Mini Lemon and Thyme Drizzle Cakes,2,IN
+5,1,Nancy,NA,NA,NA,Coffee and Hazelnut Swiss Roll,Jaffa Orange Cakes,1,STAR BAKER
+5,1,Norman,NA,NA,NA,Black Forest Swiss Roll,Almond and Raspberry Mini Cakes,11,IN
+5,1,Richard,NA,NA,NA,Pistachio and Strawberry Swiss Roll,Miniature Coffee & Walnut Cakes,10,IN
+5,2,Chetna,NA,NA,NA,Fenugreek and Carom Crackers,Day On The Beach,8,IN
+5,2,Diana,NA,NA,NA,Parmesan Triangles,"Express, First Class",7,IN
+5,2,Enwezor,NA,NA,NA,Pumpkin and Sunflower Savoury Biscuits,Space Adventure Moon Scene,9,OUT
+5,2,Iain,NA,NA,NA,Za'atar and Fig Biscuits,Wild West Scene,11,IN
+5,2,Jordan,NA,NA,NA,"Sourdough, Parmesan and Chilli Biscuits",Monster Attack,6,IN
+5,2,Kate,NA,NA,NA,Parmesan and Apple Biscuits,Tea Time,4,IN
+5,2,Luis,NA,NA,NA,Black Olive and Rosemary Biscuits with Caramelised Onion Glaze,George Versus The Dragon,3,IN
+5,2,Martha,NA,NA,NA,Caramelised Onion and Goat's Cheese Sandwich Biscuits,Ski Village Scene,5,IN
+5,2,Nancy,NA,NA,NA,Fennel and Rye Thins,Hansel and Gretel Scene,2,IN
+5,2,Norman,NA,NA,NA,Farthing Biscuits,Zulu Boats at Dawn,10,IN
+5,2,Richard,NA,NA,NA,Rosemary Seeded Crackers,Pirates!,1,STAR BAKER
+5,3,Chetna,NA,NA,NA,Onion and Pine Nut Rolls,Rolled and Filled Twin Loaf,8,IN
+5,3,Diana,NA,NA,NA,Rustic Picnic Rolls,Sharing Savoury Pinwheel,7,IN
+5,3,Iain,NA,NA,NA,Cranberry and Walnut Rye Bread Rolls,Moroccan Plaited with a Bessara Dip,9,IN
+5,3,Jordan,NA,NA,NA,Rye and Spelt Bread Rolls,Strawberry Raspberry Cheesecake Brioche,10,OUT
+5,3,Kate,NA,NA,NA,Orange and Cardamom Rye Bread Knots,"Prosciutto, Olive and Coriander Bread",1,IN
+5,3,Luis,NA,NA,NA,Opposites Attract Rolls,Roscón de Reyes,2,STAR BAKER
+5,3,Martha,NA,NA,NA,Date and Walnut Rye Rolls,Stuffed Sunflower Loaf,3,IN
+5,3,Nancy,NA,NA,NA,Cider and Walnut Crusty Rolls,'Full English' Stromboli,5,IN
+5,3,Norman,NA,NA,NA,Rye Bread Rolls,Chicken and Roasted Vegetable Picnic Loaf,4,IN
+5,3,Richard,NA,NA,NA,Rye and Cranberry Rolls,Pesto Pinwheel,6,IN
+5,4,Chetna,NA,NA,NA,"Rhubarb, Strawberry and Orange Puddings","Mango, Raspberry and Coconut Baked Alaska",3,IN
+5,4,Diana,NA,NA,NA,Orange and Lemon Curd Pots,Raspberry Ripple Alaska Swan,9,IN
+5,4,Iain,NA,NA,NA,"Chocolate, Lime and Raspberry Fondants","Chocolate, Black Sesame Seed and Coffee Caramel Baked Alaska (not presented)",6,OUT
+5,4,Kate,NA,NA,NA,Chocolate and Salted Caramel Molten Puddings,"Pistachio, Raspberry and Chocolate Baked Alaska",7,IN
+5,4,Luis,NA,NA,NA,Pears in Puddings,Bakewell Alaska,2,IN
+5,4,Martha,NA,NA,NA,Peanut Butter Chocolate Fondants,Key Lime Baked Alaska,1,IN
+5,4,Nancy,NA,NA,NA,Pistachio Puddings with Chocolate Sauce,Summer Pudding Alaska,4,IN
+5,4,Norman,NA,NA,NA,Mini Sticky Toffee Puddings,Baked Alaska with Strawberry Surprise,8,IN
+5,4,Richard,NA,NA,NA,Black Forest Chocolate Fondants,Tiramisu Baked Alaska,5,STAR BAKER
+5,5,Chetna,NA,NA,NA,Rice Custard Tart with Mangoes and Raspberries,Fusion Tiered Pies,2,IN
+5,5,Kate,NA,NA,NA,Rhubarb and Custard Tart,"Rhubarb, Prune and Apple Pies",3,STAR BAKER
+5,5,Luis,NA,NA,NA,Tropical Manchester Tart,Four Fruity Seasons Tower,6,IN
+5,5,Martha,NA,NA,NA,"Pistachio, Apricot and Honey Custard Tart",Three Little Pigs Pie,1,IN
+5,5,Nancy,NA,NA,NA,Chocolate Crusted Passion Fruit Tart,Trio of Apple Pies,4,IN
+5,5,Norman,NA,NA,NA,Tarte au Citron,Pieful Tower,5,OUT
+5,5,Richard,NA,NA,NA,Fig and Orange Tart,Three Course Autumn Pie Feast,7,IN
+5,6,Chetna,NA,NA,NA,Orange Savarin with Cinnamon Cream,Almond Liqueur Dobos Torte with Chocolate Caramel Buttercream,2,STAR BAKER
+5,6,Kate,NA,NA,NA,"Pecan, Chocolate and Sour Cherry Yeast Cake",Trio of Dobos Tortes,6,IN
+5,6,Luis,NA,NA,NA,Apple and Cinnamon Kugelhopf with Honeyed Apples,The Cage on the Rocky Hill,3,IN
+5,6,Martha,NA,NA,NA,Dark Chocolate and Almond Liqueur Savarin,Chess-Themed Chocolate and Salted Caramel Dobos Torte,4,IN
+5,6,Nancy,NA,NA,NA,Rum Punch Savarin with Coconut Cream and Tropical Fruits,Chocolate and Caramel Dobos Torte,1,IN
+5,6,Richard,NA,NA,NA,Fruity Guglhupf with an Orange Glaze,Sugar Forest Dobos Torte,5,IN
+5,7,Chetna,NA,NA,NA,Crispy Lentil Kachori,Chocolate and Mango & Lemon Meringue Éclairs,6,IN
+5,7,Kate,NA,NA,NA,Spinach and Paneer Spicy Samosa,Neapolitan & Lemon Meringue Éclairs,4,OUT
+5,7,Luis,NA,NA,NA,Childhood Empanadas,"Stars and Stripes Éclairs
+(Blueberry Cheesecake & Peanut Butter and Jelly Éclairs)",5,IN
+5,7,Martha,NA,NA,NA,Mini Beef Wellingtons,Rhubarb and Custard & Maple Syrup and Bacon Éclairs,3,IN
+5,7,Nancy,NA,NA,NA,Spicy Duck Pasties,Smoked Salmon and Horseradish & Raspberry Ripple Éclairs,2,IN
+5,7,Richard,NA,NA,NA,Minted Lamb Pasties,"Stair of Éclairs
+(Lavender and Blueberry & Rose and Raspberry Éclairs)",1,STAR BAKER
+5,8,Chetna,NA,NA,NA,Date and Walnut Swirl Bread,Chocolate Mousse Filled DoughnutsBraided Doughnuts,1,IN
+5,8,Luis,NA,NA,NA,Black Forest Cherry Tree,"Cocktail Doughnuts
+(Mudslide & Raspberry Mojito)",2,IN
+5,8,Martha,NA,NA,NA,Spiced Plum Iced Bread Swirl,Glazed Lemon & Poppy Seed DoughnutsChocolate & Passion Fruit Doughnuts,5,OUT
+5,8,Nancy,NA,NA,NA,Lincolnshire Plum Braid,"Doughnut Family Tree
+(Limoncello and Almond & Milk Chocolate and Orange)",3,IN
+5,8,Richard,NA,NA,NA,Fruit Swedish Tea Ring,Rhubarb and Custard and Toffee Apple Doughnuts,4,STAR BAKER
+5,9,Chetna,NA,NA,NA,Chocolate Orange Baklava Masala Chai Baklava,"Chocolate, Orange & Nut EntremetsCappuccino Entremets",4,OUT
+5,9,Luis,NA,NA,NA,Indian Rose BaklavaHalwa Baklava Rolls,"Chocolate Mousse & Cherry EntremetsPomegranate, Fig & Pistachio Sponges",1,IN
+5,9,Nancy,NA,NA,NA,Coffee and Chocolate BaklavaBreakfast Baklava,Raspberry NonnettesLime and Passion Fruit Entremets,3,IN
+5,9,Richard,NA,NA,NA,Rose and Pistachio BaklavaWalnut and Almond Baklava,Hazelnut Mocha EntremetsPink Grapefruit Entremets,2,STAR BAKER
+5,10,Luis,NA,NA,NA,"Apple, Walnut, Raisin and Cheshire Cheese ChaussonsPain au Chocolat Blanc with Raspberries and Cream Cheese",Village in Chocolate,2,Runner-up
+5,10,Nancy,NA,NA,NA,Apple and Lemon KitesRaspberry and Almond Croissants,Red Windmill,1,WINNER
+5,10,Richard,NA,NA,NA,Pear Pain au ChocolatPain Au Lait,Mill on the Hill,3,Runner-up
+6,1,Alvin,NA,NA,NA,Orange Vanilla and Fig Madeira Cake,Black Forest Gâteau,2,IN
+6,1,Dorret,NA,NA,NA,Madeira Cake with Candied Lemons,Enchanted Forest Gâteau,5,IN
+6,1,Flora,NA,NA,NA,Blood Orange Madeira Cake,Black Forest Gâteau,6,IN
+6,1,Ian,NA,NA,NA,Somewhere West of Madeira Cake,Black Forest Cherry Tree,8,IN
+6,1,Marie,NA,NA,NA,Zingy Citrus Madeira Cake,A Walk in the Black Forest,3,STAR BAKER
+6,1,Mat,NA,NA,NA,Gin and Tonic Madeira Cake,Black Forest Gateau,7,IN
+6,1,Nadiya,NA,NA,NA,Orange and Green Cardamom Madeira Cake,Quadruple Chocolate Black Forest Gâteau,12,IN
+6,1,Paul,NA,NA,NA,"Lemon, Ginger and Caraway Seed Madeira Cake",Black Forest Chocolate Creation,10,IN
+6,1,Sandy,NA,NA,NA,Madeira Cake with Almond Liqueur and Chopped Apricots,Black Forest Gâteau,9,IN
+6,1,Stu,NA,NA,NA,Marley Madeira Cake,Purple Forest Gâteau,11,OUT
+6,1,Tamal,NA,NA,NA,Pistachio and Rose Madeira Cake,Black Forest Gâteau in a Chocolate Shell,4,IN
+6,1,Ugnė,NA,NA,NA,Lemon and Thyme Madeira Cake,Falling Cup Gâteau,1,IN
+6,2,Alvin,NA,NA,NA,"Jackfruit, Pistachio and Macadamia Biscotti",Gingerbread Box filled with Brandy Snaps,6,IN
+6,2,Dorret,NA,NA,NA,Almond and Apricot Biscotti with Amber Sugar Crystals,Box of Frogs,1,IN
+6,2,Flora,NA,NA,NA,Wedding Biscotti,Honey and Earl Grey Tea Box,2,IN
+6,2,Ian,NA,NA,NA,"Orange, Rosemary and Almond Biscotti",Sandwich de la Confiture,3,STAR BAKER
+6,2,Marie,NA,NA,NA,Biscotti Italiano,Russian Box,11,OUT
+6,2,Mat,NA,NA,NA,"Pistachio, Cranberry and White Chocolate Biscotti",Gingerbread Fire Engine,5,IN
+6,2,Nadiya,NA,NA,NA,"Coconut, Fennel and Pistachio Biscotti",Box of Fortunes,9,IN
+6,2,Paul,NA,NA,NA,"Chocolate, Hazelnut and Fig Biscotti",Memory Box,10,IN
+6,2,Sandy,NA,NA,NA,Chocolate Chunk and Hazelnut Biscotti,Sundried Tomato Cheese Biscuit Box,4,IN
+6,2,Tamal,NA,NA,NA,"Cinnamon, Maple and Cranberry Biscotti",Chessboard Box,8,IN
+6,2,Ugnė,NA,NA,NA,White Wine Biscotti,Baby Climbing into the Cookie Box,7,IN
+6,3,Alvin,NA,NA,NA,"Prosciutto, Manchego and Balsamic Onion Soda Breads",Cornucopia,4,IN
+6,3,Dorret,NA,NA,NA,Walnut and Stilton Soda Breads,Unmade Bread,6,OUT
+6,3,Flora,NA,NA,NA,Fig and Hazelnut Rye Breads,Herb Couture,2,IN
+6,3,Ian,NA,NA,NA,Wild Garlic Pesto Soda Breads,Flour Power,1,STAR BAKER
+6,3,Mat,NA,NA,NA,"Jalapeño, Mexican Cheddar and Smoked Salt Soda Breads",Curry Inspired Brighton Pavilion,8,IN
+6,3,Nadiya,NA,NA,NA,Mexican Bread with Warm Tomato Salsa,Snake Charmer's Basket,9,IN
+6,3,Paul,NA,NA,NA,Cranberry and Orange Sweet Soda Breads,King of the Jungle,10,IN
+6,3,Sandy,NA,NA,NA,Soda Breads with Smoked Bacon and Onion,Basket of Bread Flowers with a Walnut and Blue Cheese Centre,7,IN
+6,3,Tamal,NA,NA,NA,"Fig, Cheese and Walnut Breads",Breadcycle,3,IN
+6,3,Ugnė,NA,NA,NA,Chocolate Quick Breads with Salted Caramel Sauce,Easter Basket,5,IN
+6,4,Alvin,NA,NA,NA,Blackberry Crème Brûlées,Tower of Fruits Cheesecakes,9,IN
+6,4,Flora,NA,NA,NA,Rhubarb and Ginger Crème Brûlées,Elderflower and Granola Cheesecakes,3,IN
+6,4,Ian,NA,NA,NA,Pomegranate Two Ways Crème Brûlées,Trio of Spicy and Herby Baked Cheesecakes,4,STAR BAKER
+6,4,Mat,NA,NA,NA,Coconut Crème Brûlées,Chocolate Bar Cheesecakes,7,IN
+6,4,Nadiya,NA,NA,NA,Cinnamon Tea Crème Brûlées,Fizzy Pop Cheesecakes,8,IN
+6,4,Paul,NA,NA,NA,Almond Crème Brûlées,Berry Cheesecake Tower,1,IN
+6,4,Sandy,NA,NA,NA,Pontefract Crème Brûlées,"Cassata, Whisky and Orange & Apple Pie Cheesecakes",6,OUT
+6,4,Tamal,NA,NA,NA,Rhubarb and Ginger Crème Brûlées,"Mango, Hazelnut and Rosemary Cheesecake Trio",5,IN
+6,4,Ugnė,NA,NA,NA,Marula Fruit and Coffee Liqueur Crème Brûlées,"Lime, Coconut and Hazelnut Cheesecakes",2,IN
+6,5,Alvin,NA,NA,NA,Pineapple Upside Down Cake,"Buko Pandan, Mango and Passion Fruit Ice Cream Roll",8,IN
+6,5,Flora,NA,NA,NA,"Pistachio, Apple and Cardamom Madeleine Cake",Chocolate and Pear Bûche,3,IN
+6,5,Ian,NA,NA,NA,Honey and Flowers Cake,Dessert Island,5,IN
+6,5,Mat,NA,NA,NA,Sugar Free Carrot Cake,Raspberry and Coconut Ice Cream Roll,4,IN
+6,5,Nadiya,NA,NA,NA,Naked Blueberry and Caraway Crunch Cake,Chocolate and Strawberry Lime Ice Cream Roll,1,STAR BAKER
+6,5,Paul,NA,NA,NA,Carrot & Pecan Cake,Dessert Island Getaway,2,IN
+6,5,Tamal,NA,NA,NA,Honey and Grapefruit Polenta Cake,Passion Fruit and Pineapple Ice Cream Roll,7,IN
+6,5,Ugnė,NA,NA,NA,Chocolate and Hazelnut Sugar-Free Cake,"Chocolate, Peanut Butter and Grape Jam Roll",6,OUT
+6,6,Alvin,NA,NA,NA,Plum Frangipane Tart,Smoked Salmon En Croûte and Vermouth Chicken à la King Vol-au-vents,6,OUT
+6,6,Flora,NA,NA,NA,Apricot and Rosemary Frangipane Tart,Asparagus and Parma Ham and Praline and Chocolate Vol-au-vents,2,IN
+6,6,Ian,NA,NA,NA,Pear and Raspberry Frangipane Tart,vol-au-vents Terre et Mer,3,IN
+6,6,Mat,NA,NA,NA,Piña Colada Frangipane Tart,His 'n' Hers Vol-au-vents,1,STAR BAKER
+6,6,Nadiya,NA,NA,NA,"Bay Leaf, Rong Tea and Pear Tart",Bengali Korma and Clementine with Cod Vol-au-vents,4,IN
+6,6,Paul,NA,NA,NA,Christmas Frangipane Tart,Savoury and Sweet Bouchées,5,IN
+6,6,Tamal,NA,NA,NA,Spiced Pear Frangipane Tart,Fennel and Rosemary Pulled Pork and Chicken and Coriander vol-au-vents,7,IN
+6,7,Flora,NA,NA,NA,Game Pie with Shallot and Apple Chutney,"Raspberry, Pomegranate and Champagne Charlotte Russe",4,IN
+6,7,Ian,NA,NA,NA,Roadkill Pie,Victoria's Crown Charlotte Russe,5,IN
+6,7,Mat,NA,NA,NA,Raised Venison and Pigeon Pie,Strawberry Charlotte Russe,6,OUT
+6,7,Nadiya,NA,NA,NA,Aromatic Raised Game Pie,Mango and Raspberry Charlotte Russe,1,IN
+6,7,Paul,NA,NA,NA,Not a Boaring Pie,Charlotte Rose,2,IN
+6,7,Tamal,NA,NA,NA,Middle Eastern Game Pie,"Spiced Blackberry, Raspberry and Cardamom Charlotte Russe",3,STAR BAKER
+6,8,Flora,NA,NA,NA,Peach & Lemon Thyme and Smoked Almond & Butterscotch Cream Horns,Lime & Basil and Coconut & White Chocolate Religieuse à l'ancienne,3,IN
+6,8,Ian,NA,NA,NA,Mont Blanc & Black Forest Gâteau Horns,Nun with Hidden Passions,2,IN
+6,8,Nadiya,NA,NA,NA,Rose Pistachio and Mocha Hazelnut Horns,Bubble Gum and Peppermint Cream Religieuse à l'ancienne,1,STAR BAKER
+6,8,Paul,NA,NA,NA,Café Tipple & Banana Crunch-away Horns,Religieuse à l'ancienne,5,OUT
+6,8,Tamal,NA,NA,NA,Lime & Mascarpone and Malt Cream Horns,Passionfruit & Mango and Pistachio & Raspberry Religieuse à l'ancienne,4,IN
+6,9,Flora,NA,NA,NA,Passion Fruit and Chocolate Tart,Cocoa Carousel,1,OUT
+6,9,Ian,NA,NA,NA,Chocolate and Bay Tart,Chocolate Well,3,IN
+6,9,Nadiya,NA,NA,NA,Peanut Salted Caramel and Chocolate Tart,Peacock in Nan's Door,4,STAR BAKER
+6,9,Tamal,NA,NA,NA,Chocolate New York Pie,Chocolate Bell Tower,2,IN
+6,10,Ian,NA,NA,NA,Elderflower and Lemon & Spiced Buns,Colossal Curvy Carrot Cake,2,Runner-up
+6,10,Nadiya,NA,NA,NA,Cardamom and Almond Buns & Nutmeg and Sour Cherry Fingers,My Big Fat British Wedding Cake,1,WINNER
+6,10,Tamal,NA,NA,NA,Cinnamon and Apple & Toffee and Marmalade Iced Buns,Sticky Toffee Pudding Cake,3,Runner-up
+7,1,Andrew,NA,NA,NA,Lemon and Rosemary Drizzle Cake,'Ultimate Indulgence' Mirror Glaze Cake,12,IN
+7,1,Benjamina,NA,NA,NA,"Pistachio, Cardamom and Lemon Drizzle Cake",White Chocolate Mirror Glaze with Salted Praline Buttercream,6,IN
+7,1,Candice,NA,NA,NA,Raspberry and Rhubarb Drizzle Custard Bundt Cake,"Mirror Mirror On The Wall, Who Is The Shiniest Cake Of Them All?",5,IN
+7,1,Jane,NA,NA,NA,Lemon and Poppy Seed Drizzle Cake,Chocolate Orange Mirror Cake,7,STAR BAKER
+7,1,Kate,NA,NA,NA,Berry Best Apple and Bramble Drizzle Cake,One Swallow Does Not Make A Summer Cake,4,IN
+7,1,Lee,NA,NA,NA,St. Clements Orange and Lemon Drizzle Cake,Strawberry Surprise Mirror Cake,11,OUT
+7,1,Louise,NA,NA,NA,Orange Liqueur and Lemonade Drizzle Cake,White Chocolate Trifle Mirror Glaze Cake,9,IN
+7,1,Michael,NA,NA,NA,"Lime, Ginger and Honey Drizzle Cake",Matcha Tea Chocolate Mirror Glaze,3,IN
+7,1,Rav,NA,NA,NA,Ginger Spice Yuzu Drizzle Cake,Colombian Mocha Mirror Glaze Cake,8,IN
+7,1,Selasi,NA,NA,NA,Citrus and Spice Drizzle Cake,"Raspberry, Sloe and White Chocolate Mirror Glaze Cake",1,IN
+7,1,Tom,NA,NA,NA,G&T Drizzle Cake,Black Forest Broken Mirror,2,IN
+7,1,Val,NA,NA,NA,Mum's Orange and Lemon Drizzle,Chocolate Sponge with Four Fruit Frosting,10,IN
+7,2,Andrew,NA,NA,NA,Beehive Biscuits,Punting in Cambridge,4,IN
+7,2,Benjamina,NA,NA,NA,Bouquet Biscuits,"New York, New York",3,IN
+7,2,Candice,NA,NA,NA,"Salted Caramel, Chocolate Iced Shiny Hearts",Gingerbread Pub with Sticky Ginger Carpet,8,STAR BAKER
+7,2,Jane,NA,NA,NA,Flower Pot Iced Biscuits,Hastings Old Town Fishing Net Shops and Boat,2,IN
+7,2,Kate,NA,NA,NA,"""A Biscuit for the Broads""","""I Promise I will do my best""",1,IN
+7,2,Louise,NA,NA,NA,Baa Bara Brith Biscuits,Gingerbread Wedding,10,OUT
+7,2,Michael,NA,NA,NA,"Malt, Chocolate and Orange Iced ""Beer"" Biscuits",Trip to See Santa in Lapland,9,IN
+7,2,Rav,NA,NA,NA,Union Jack Bunting Biscuits,Gingerbread Christmas Fairground,6,IN
+7,2,Selasi,NA,NA,NA,"""Wheelie Hot Iced Biscuits""",Stained Glass Window Gingerbread Church,11,IN
+7,2,Tom,NA,NA,NA,Chai Frappelatteccino Biscuits,Tom and Pod's Near Death Experience,7,IN
+7,2,Val,NA,NA,NA,Sunday Treat Iced Ice Cream Cone Biscuits,From Holland to New York via Yorkshire,5,IN
+7,3,Andrew,NA,NA,NA,Chocolate Barmbrack Bread,Braided Harvest Bread Basket,2,IN
+7,3,Benjamina,NA,NA,NA,"Chocolate, Tahini and Almond Babka",Braided Bread Heart,6,IN
+7,3,Candice,NA,NA,NA,"Chocolate, Salted Caramel & Pecan Brittle Brioche Loaf",Italian Light and Dark Rye Twist,3,IN
+7,3,Jane,NA,NA,NA,Chocolate and Cranberry Couronne,Chorizo and Chilli Flower with Parmesan and Pesto Centre,9,IN
+7,3,Kate,NA,NA,NA,Cobbled Loaf,The Corn Maiden,8,IN
+7,3,Michael,NA,NA,NA,Chocolate and Chilli Swirl Plait,Cypriot Dove and Olive Branch Plaited Loaf with Houmous,7,OUT
+7,3,Rav,NA,NA,NA,"Chocolate, Cardamom and Hazelnut Loaf",Three Tier Diwali Bread Centrepiece,10,IN
+7,3,Selasi,NA,NA,NA,"Chocolate, Orange and Cinnamon Bread",Bedouin Escape Tear and Share Bread,5,IN
+7,3,Tom,NA,NA,NA,Chocolate Orange and Chilli Swirl Bread,Jörmungandr and Mjölnir,4,STAR BAKER
+7,3,Val,NA,NA,NA,Double Chocolate Cinnamon Twist Loaf,"""And They All Went Into The Ark To Get Out Of The Rain""",1,IN
+7,4,Andrew,NA,NA,NA,Yorkshire 'Tapas' Puddings,Churros Window Box,4,IN
+7,4,Benjamina,NA,NA,NA,"Red Onion Chutney, Brie and Bacon Yorkshire Puddings",Tropical Churros,1,STAR BAKER
+7,4,Candice,NA,NA,NA,Yorkshire Wellingtons,Two-Way Peanut Butter Churros,2,IN
+7,4,Jane,NA,NA,NA,Meat and Two Veg Yorkshires,Pistachio and White Chocolate Churros,3,IN
+7,4,Kate,NA,NA,NA,Christmas Dinner Compromise,Hot Cross Bunny Churros,7,OUT
+7,4,Rav,NA,NA,NA,Thai Tofu Panang Yorkshires,Three Dip Matcha Pistachio Churros,9,IN
+7,4,Selasi,NA,NA,NA,Perfect Sunday Roast Accompaniment,Lemon and Anise Churros,8,IN
+7,4,Tom,NA,NA,NA,West Yorkshire Fusion Puddings,Fennel Churros Snake In The Grass,5,IN
+7,4,Val,NA,NA,NA,Mum's Chilli Yorkshire Puddings,Orange Chocolate Churros,6,IN
+7,5,Andrew,NA,NA,NA,Mum and Dad's Breakfast Pastries,Spicy Chorizo Squash Parcels and Baklava Bites,6,IN
+7,5,Benjamina,NA,NA,NA,'Good Morning America' Swirls and Peanut Butter and Banana Pinwheels,Plantain and Spinach Samosas and Chai Pear Cups,5,IN
+7,5,Candice,NA,NA,NA,"Danish Pastry Croque Monsieur Kites and Cinnamon Apple, Vanilla Crème Rose Danish","Sausage, Black Pudding and Apple Rounds and Banoffee Whiskey Cups",2,STAR BAKER
+7,5,Jane,NA,NA,NA,"Orange Pain au Raisins, Raspberry, Chocolate and Almond Danish","Roquefort, Fig and Walnut Parcels and Cherry and Chocolate Cones",1,IN
+7,5,Rav,NA,NA,NA,"Cinnamon Swirls and Pecan, Walnut and Maple Plaits",Chinese Style Prawn Filo Tartlets and Spiced White Chocolate and Hazelnut Samosas,8,IN
+7,5,Selasi,NA,NA,NA,"Rhubarb, Mango and Ginger Plait, and Pineapple and Coconut Pinwheels","Parma Ham, Asparagus and Cheese Filo Cigars and Coffee Cream Filo Cups",3,IN
+7,5,Tom,NA,NA,NA,Mega Breakfast Bonanzas; Granola Spirals and Wheat Foldovers,Yin and Yang Amuse-bouche,4,IN
+7,5,Val,NA,NA,NA,"Pecan and Maple Syrup Pinwheels and Apple, Sultana and Cinnamon Swirls","Caramelised Red Onion, Goats Cheese Tartlets and Mincemeat and Apple Spiced Parcels",7,OUT
+7,6,Andrew,NA,NA,NA,Tangy Lime and Ginger Meringue Pie,Spring Elderflower Trio,6,IN
+7,6,Benjamina,NA,NA,NA,Grapefruit and Ginger Meringue Pie,Floral Tea Cake,2,IN
+7,6,Candice,NA,NA,NA,"Lime, Coconut and Lemongrass Sugar Meringue Pie",Four Seasons Cake,5,IN
+7,6,Jane,NA,NA,NA,Lime and Coconut Meringue Pie,Three Tier Orange Cake with a Floral Chocolate Collar,4,IN
+7,6,Rav,NA,NA,NA,Mandarin Margarita Meringue Pie,Blossom Cake,3,OUT
+7,6,Selasi,NA,NA,NA,"Grapefruit, Orange and Mint Meringue Pie",Three Tiered Ombré Floral Cake,7,IN
+7,6,Tom,NA,NA,NA,Blood Orange Halloween Pumpkin Pie,Floral Tea Cake,1,STAR BAKER
+7,7,Andrew,NA,NA,NA,Tropical Holiday Roulade,Childhood Ice Cream Mousse Cakes,1,STAR BAKER
+7,7,Benjamina,NA,NA,NA,Piña Colada Roulade,Apple Crumble Mousse Cake and Chocolate Coffee Mousse Cake,3,IN
+7,7,Candice,NA,NA,NA,Crowd Pleaser Roulade,Blackberry and Raspberry Bubbles and After Dinner Mousse,2,IN
+7,7,Jane,NA,NA,NA,Chocolate and Hazelnut Roulade,"Chocolate, Coffee, and Vanilla Joconde Cakes and Blackcurrant and Vanilla Ombre Mousses",4,IN
+7,7,Selasi,NA,NA,NA,Summer Picnic Roulade,"Lemon, Strawberry and Passionfruit and Chocolate and Mint Mini Mousse Cakes",6,IN
+7,7,Tom,NA,NA,NA,Millionaire's Roulade,Hipster Picnic,5,OUT
+7,8,Andrew,NA,NA,NA,Da Vinci Inspired Geared Pies,Jousting Knights Marchpane,2,IN
+7,8,Benjamina,NA,NA,NA,Mexican Adventure,Tudor Garden,4,OUT
+7,8,Candice,NA,NA,NA,Cheesy Cheeky Fish Pies,Peacock,1,STAR BAKER
+7,8,Jane,NA,NA,NA,Tudor Rose Pies,Swans,5,IN
+7,8,Selasi,NA,NA,NA,Bouquet of Flowers,Fruity Tudor Marchpane,3,IN
+7,9,Andrew,NA,NA,NA,Cheesy Elephant Ears and Herby Treble Clefs,Philharmonic Fondants,2,STAR BAKER
+7,9,Candice,NA,NA,NA,"Red Onion, Cambozola and Walnut Palmiers and Mushroom, Streaky Bacon, and Parmesan Palmiers",Chocolate Praline Fondant Fancies and Cherry Bakewell Fondant Fancies,3,IN
+7,9,Jane,NA,NA,NA,"Pesto and Sundried Tomato Palmiers and Goats Cheese, Olive and Parma Ham Palmiers",Pistachio and Raspberry Fondant Fancies and Lemon Curd Surprise Fondant Fancies,1,IN
+7,9,Selasi,NA,NA,NA,"Sundried Tomato, Onion, Peppers and Parmesan Palmiers and Salmon, Spinach and Mushroom Palmiers",Lime and Ginger Fondant Fancies and Pink Velvet and Raspberry Prosecco Fondant Fancies,4,OUT
+7,10,Andrew,NA,NA,NA,Crunchy Caramel Cassis Crown,Family and Friends' Favourites Picnic,1,Runner-up
+7,10,Candice,NA,NA,NA,Queen Victoria's Mango and Strawberry Crown,Picnic for Pearly Kings and Queens,2,WINNER
+7,10,Jane,NA,NA,NA,"Red, White and Blue Meringue Crown",Family Favourites Feast,3,Runner-up
+8,1,Chris,NA,NA,NA,Tropical Fresh Fruit Cake,'Raised Pork Pie and Egg Surprise' Cake,12,IN
+8,1,Flo,NA,NA,NA,Citrus Layer Cake,'One in a Melon' Cake,9,IN
+8,1,James,NA,NA,NA,"Orange, Rhubarb & Ginger Crumble Cake",'Mock-accino and Croissant' Cake,2,IN
+8,1,Julia,NA,NA,NA,Courgette and Lemon Cake,'Russian Doll' Cake,3,IN
+8,1,Kate,NA,NA,NA,Moroccan Strawberry and Rose Cake,'Chocolate Terrarium' Cake,1,IN
+8,1,Liam,NA,NA,NA,Apple and Almond Crumble Maple Loaf,'Stackin' Sunday' Cake,8,IN
+8,1,Peter,NA,NA,NA,Coconut Cake,'Bread on a Breadboard' Cake,10,OUT
+8,1,Sophie,NA,NA,NA,Pineapple and Coconut Sandwich Cake,'Champagne Bottle and Bucket' Cake,5,IN
+8,1,Stacey,NA,NA,NA,Granny Smith Apple and Walnut Cake,'Black Evening Clutch Bag' Cake,11,IN
+8,1,Steven,NA,NA,NA,Bonfire Night Cake,'A Baker's Lunch' Cake,6,STAR BAKER
+8,1,Tom,NA,NA,NA,Gilded Pear and Cardamom Cake,'Stack of Books' Cake,7,IN
+8,1,Yan,NA,NA,NA,Windfall Apple Crumble Cake,'Banana-ramen' Cake,4,IN
+8,2,Chris,NA,NA,NA,Chocolate Chia Seed Biscuits with Whisky Caramel Filling,'The Great British Sail Off' Game,11,OUT
+8,2,Flo,NA,NA,NA,Gin Jam Butties,'Pick My Bones' Game,10,IN
+8,2,James,NA,NA,NA,Rhubarb and Custard Whirls,'Coppit' Game,3,IN
+8,2,Julia,NA,NA,NA,Middle Eastern Delight Sandwich Biscuits,'A British Baking' Game,4,IN
+8,2,Kate,NA,NA,NA,Coconut Seashells for a Titanic Afternoon Tea,'Jungle' Game,8,IN
+8,2,Liam,NA,NA,NA,Coffee Malted Pecan Shorties,'Classroom Classics' Game,7,IN
+8,2,Sophie,NA,NA,NA,Lemon Limoncino Sandwich Biscuits,'Snakes and Ladders' Game,2,IN
+8,2,Stacey,NA,NA,NA,Sparkly Chocolate and Marshmallow Fluff Cookies,'Get to School' Game,9,IN
+8,2,Steven,NA,NA,NA,Amarpressi Biscuits,'Check Bake' Game,6,STAR BAKER
+8,2,Tom,NA,NA,NA,Coffee and Amaretto Kisses,'Drain Pipes and Ladders' Game,5,IN
+8,2,Yan,NA,NA,NA,'Mrs. Marian's PB 'n' B' Biscuits,'Adventures in Bakeland' Game,1,IN
+8,3,Flo,NA,NA,NA,Cinnamon and Orange Teacakes,'Davy Jones' Locker' Bread Sculpture,7,OUT
+8,3,James,NA,NA,NA,Nordic Teacakes,'Owl in the Woods' Bread Sculpture,9,IN
+8,3,Julia,NA,NA,NA,Earl Grey Dried Fruit Teacakes,'The Snail Under a Mushroom' Bread Sculpture,2,STAR BAKER
+8,3,Kate,NA,NA,NA,Blueberry Buns,'Kraken' Bread Sculpture,10,IN
+8,3,Liam,NA,NA,NA,Jamaican Spiced Teacakes,'Kneadapolitan' Bread Sculpture,5,IN
+8,3,Sophie,NA,NA,NA,Tagine Teacakes,'Picnic Basket' Bread Sculpture,6,IN
+8,3,Stacey,NA,NA,NA,Cranberry and Cinnamon Teacakes,'Ascot Hat' Bread Sculpture,1,IN
+8,3,Steven,NA,NA,NA,Madras Cocktail Teacakes,'The Bag I Knead' Bread Sculpture,3,IN
+8,3,Tom,NA,NA,NA,Orange and Cranberry Teacakes,'Pink & Yellow Rose Centrepiece' Bread Sculpture,4,IN
+8,3,Yan,NA,NA,NA,'Mrs P's' Masala Chai Spiced Teacakes,'Basil the Vegetarian Dragon with his Pumpkin Hoard' Bread Sculpture,8,IN
+8,4,James,NA,NA,NA,'Windy City' Millionaire Shortbreads,Nutty Caramel Cake,2,IN
+8,4,Julia,NA,NA,NA,Pecan Salted Caramel Millionaire Shortbreads,Poppy Seed Caramel Cake,9,IN
+8,4,Kate,NA,NA,NA,Salted Bay Caramel Millionaire Shortbreads,Sticky Toffee Apple Caramel Cake,6,STAR BAKER
+8,4,Liam,NA,NA,NA,Salted Peanut Butter Millionaire Shortbreads,White Layered Ginger Caramel Cake,3,IN
+8,4,Sophie,NA,NA,NA,Jaffa Millionaire Shortbreads,Bird's Nest Caramel Cake,4,IN
+8,4,Stacey,NA,NA,NA,Rum Salted Caramel Millionaire Shortbreads,Chocolate and Coffee Caramel Cake,1,IN
+8,4,Steven,NA,NA,NA,Orange Macadamia Nut Millionaire Shortbreads,Caramel Crown Cake,7,IN
+8,4,Tom,NA,NA,NA,Stem Ginger Caramel Shortbreads,Hummingbird Cake,5,OUT
+8,4,Yan,NA,NA,NA,'Lil' Red's Ginger and Nuts' Millionaire Shortbreads,Animals of the Rainforest Caramel Cake,8,IN
+8,5,James,NA,NA,NA,Orange and Ginger Steamed School Pudding,'The Missed Silver Jubilee' Trifle Terrine,7,OUT
+8,5,Julia,NA,NA,NA,Orange & Treacle Steamed School Pudding,'Opulent Ornament' Trifle Terrine,3,IN
+8,5,Kate,NA,NA,NA,'Mr Darcy's Steamy Lake Scene' Steamed School Pudding,'My Great Great Nan's' Raspberry Trifle Terrine,8,IN
+8,5,Liam,NA,NA,NA,Cherries & Lemons that are 'Baked Well','Cheers Lads' Trifle Terrine,2,IN
+8,5,Sophie,NA,NA,NA,"Ginger, Fig and Honey Steamed School Pudding","Raspberry, Yuzu & White Chocolate Bûche Trifle Terrine",1,STAR BAKER
+8,5,Stacey,NA,NA,NA,Bakewell Tart Steamed School Pudding,Tropical Trifle Terrine,4,IN
+8,5,Steven,NA,NA,NA,Lemon & Blackcurrant Drizzle Steamed School Pudding,'From Across the Jelly Pond' Trifle Terrine,5,IN
+8,5,Yan,NA,NA,NA,Mango Fruit Hat Steamed School Pudding,'Heart of a Hero' Trifle Terrine,6,IN
+8,6,Julia,NA,NA,NA,'Pies from the Tree' Decorative Pies,'Special Occasion' Pie,7,OUT
+8,6,Kate,NA,NA,NA,'Vegetarian Pie Faces' Decorative Pies,Potato Curry Pie with Mango & Chilli Glaze,5,IN
+8,6,Liam,NA,NA,NA,'Standard FC' Decorative Pies,'Nan's Sunday Dinner' Pie,4,STAR BAKER
+8,6,Sophie,NA,NA,NA,'The Four Seasons' Decorative Pies,Game Pie with Glazed Forest Fruits,2,IN
+8,6,Stacey,NA,NA,NA,'Love Theme' Decorative Pies,Indian Hand Raised Pie with Mango,6,IN
+8,6,Steven,NA,NA,NA,'Fleetwood Mac' Decorative Pies,Christmas Pie,3,IN
+8,6,Yan,NA,NA,NA,'πr2' Decorative Pies,Chequerboard Pie,1,IN
+8,7,Kate,NA,NA,NA,'Happy Hour' Cocktail Cannoli,'Flavour Fusion' Sfogliatelle,6,IN
+8,7,Liam,NA,NA,NA,'Just Doing Me' Cannoli,'Morning Delivery' Sfogliatelle,2,IN
+8,7,Sophie,NA,NA,NA,'Classics with a Twist' Cannoli,'Classics' Sfogliatelle,3,IN
+8,7,Stacey,NA,NA,NA,My All Time Favourite Desserts,Pastry Surprise,4,IN
+8,7,Steven,NA,NA,NA,Italian Style Cannoli,'Sicilian-style' Sfogliatelle,1,STAR BAKER
+8,7,Yan,NA,NA,NA,Cannoli Cocktails,Canadian-Style Sfogliatelle,5,OUT
+8,8,Kate,NA,NA,NA,Burrito Bedfordshire Clangers,'Liver Building Turret' Savoy Cake,2,IN
+8,8,Liam,NA,NA,NA,'Take Out' Bedfordshire Clangers,'Fort Wizardore' Savoy Cake,5,OUT
+8,8,Sophie,NA,NA,NA,Char Siu & Banana Praline Bedfordshire Clangers,Citrus with Green Apple Croquembouche Savoy Cake,4,IN
+8,8,Stacey,NA,NA,NA,Camembert & Onion and Apple & Blueberry Bedfordshire Clangers,'Bright' Lemon & Orange Savoy Cake,3,STAR BAKER
+8,8,Steven,NA,NA,NA,'Mediterranean Medley' Bedfordshire Clangers,Chestnut Rum Savoy Cake,1,IN
+8,9,Kate,NA,NA,NA,Bellini and Valencian Orange Choux Buns,'Rainbow' Meringue Centrepiece,4,IN
+8,9,Sophie,NA,NA,NA,Strawberry & Rhubarb and Chestnut & Vanilla Choux Buns,'Tutu with Opera Filling' Meringue Centrepiece,1,STAR BAKER
+8,9,Stacey,NA,NA,NA,'Choux-nicorn and Choux-moji' Choux Buns,'Flamingos in Love' Meringue Centrepiece,2,OUT
+8,9,Steven,NA,NA,NA,Key Lime Cheesecake and Bakewell Tart Choux Buns,'Some Air Over the Rainbow' Meringue Centrepiece,3,IN
+8,10,Kate,NA,NA,NA,"Roman Spelt, Coconut Kala Chana and Flower Breads","White Chocolate, Yuzu and Lychee Entremet",3,Runner-up
+8,10,Sophie,NA,NA,NA,"Spelt Boules, Mushroom Ciabatta and Orange Plaited Brioche",'Ode to the Honey Bee' Entremet,2,WINNER
+8,10,Steven,NA,NA,NA,"Spelt & Rye, Toasted Garlic & Fontina and Sweet Chocolate Breads",'Yin Yang' Entremet,1,Runner-up
