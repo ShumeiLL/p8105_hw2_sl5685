@@ -85,6 +85,64 @@ trans_ent |>
   distinct()
 ```
 
+### Problem 2
+
+Mr. Trash Wheel
+
+```{r}
+mr_df = 
+  read_excel("data/202409 Trash Wheel Collection Data.xlsx", 
+                      sheet = "Mr. Trash Wheel") %>%
+  janitor::clean_names() |>
+  select(-c(x15, x16)) |>
+  drop_na() |>
+  mutate(sports_balls = as.integer(round(sports_balls))) |>
+  mutate(name = "Mr. Trash Wheel") |>
+  relocate(name)
+
+mr_df
+```
+
+Professor Trash Wheel
+
+```{r}
+prof_df = 
+  read_excel("data/202409 Trash Wheel Collection Data.xlsx", 
+                      sheet = "Professor Trash Wheel") %>%
+  janitor::clean_names() |>
+  drop_na() |>
+  mutate(year = as.character(year)) |>
+  mutate(name = "Professor Trash Wheel") |>
+  relocate(name)
+
+prof_df
+```
+
+Gwynnda Trash Wheel
+
+```{r}
+ga_df = 
+  read_excel("data/202409 Trash Wheel Collection Data.xlsx", 
+                      sheet = "Gwynnda Trash Wheel") %>%
+  janitor::clean_names() |>
+  drop_na() |>
+  mutate(year = as.character(year)) |>
+  mutate(name = "Gwynnda Trash Wheel") |>
+  relocate(name)
+
+```
+
+Binding rows
+
+```{r}
+wheel_tidy = bind_rows(mr_df, prof_df, ga_df)
+  
+wheel_tidy
+```
+
+After cleaning, the dataset includes a total of `r nrow(wheel_tidy)` observations, with each observation representing a specific dumpster filled by one of the trash wheels. The example of key variables include `date`, `month`, `year`, `weight_tons`, and `cigarette_butts`. For available data, the total weight of trash collected by Professor Trash Wheel was `r sum(prof_df$weight_tons)` tons. The total number of cigarette butts collected by Gwynnda in June of 2022 was.
+
+
 
 
 
