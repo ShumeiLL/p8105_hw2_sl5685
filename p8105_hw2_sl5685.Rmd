@@ -191,6 +191,17 @@ final_dataset <- final_dataset %>%
 write_csv(final_dataset, "data/final_bake_dataset.csv")
 ```
 
+First, I imported the data using `read_csv` and renamed each column to something easier to work with. I renamed `baker_name` to `baker`, removed the first two rows for the results dataset, and removed rows with all `NA` values in the results dataset. I merged bakers and bakes datasets based on `baker` and `series`, and then merged the combined dataset with the results dataset on `series`, `episode`, and `baker`. Finally, I reordered the columns and exported the CSV file.
+
+Part two
+
+```{r}
+star_bakers = final_dataset %>%
+  filter(series >= 5 & series <= 10, result == "Star Baker") |>
+  select(series, episode, baker)
+
+print(star_bakers)
+```
 
 
 
